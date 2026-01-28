@@ -9,13 +9,13 @@ POST http://localhost:3000/students
 Content-Type: application/json
 
 {
-  "first_name": "Michael",
-  "last_name": "Jordan",
-  "email": "michael.jordan@example.com",
+  "first_name": "James",
+  "last_name": "Michael",
+  "email": "james.michael@example.com",
   "age": 51,
   "course": "Basketball Science",
-  "year_level": 4,
-  "gpa": 1.9,
+  "year_level": 3,
+  "gpa": 1.4,
   "enrollment_status": "Active"
 }
 
